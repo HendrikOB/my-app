@@ -79,7 +79,9 @@
 
             <div class="content">
                 <div class="title m-b-md">
+
                     Styde te enseña git
+
                 </div>
 
                 <div class="links">
